@@ -83,7 +83,7 @@ blockquote {
     background-position: left top;
     background-repeat: no-repeat;
     float: left;
-    margin: 23px 0 0;
+    margin: 10px 0 0;
     padding: 0 0 0 33px;
     text-align: left;
     width: 430px;
@@ -161,7 +161,7 @@ div.hr {
 .benefits_wrapper {
 	width: 410px;
 	float: left;
-	margin-top: 35px;
+	margin-top: 10px;
 	text-align:left;
 	}
 	
@@ -183,7 +183,7 @@ div.hr {
 	float: left;
 	width: 410px;
 	text-align: left;
-	margin-top: 40px;
+	margin-top: 15px;
 }
 
 .benefit_item img, .benefit_item_first img, .benefit_item_right img {

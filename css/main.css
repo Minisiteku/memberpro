@@ -102,10 +102,10 @@ pre {
 	
 div.hr hr { display: none;}	
 div.hr { 
-	height: 30px; 
+	height: 10px; 
 	background: url(../img/hr.png) no-repeat scroll center;
 	clear: both;
-	margin: 30px 0 20px 0;
+	margin: 0 auto;
 	}
 	
 .orange_title {
@@ -152,7 +152,7 @@ div.hr {
 .left_container {
 	width: 410px;
 	float: left;
-	margin-top: 50px;
+	margin-top: 25px;
 	text-align:left;
 	clear: left;
 	}
@@ -160,7 +160,7 @@ div.hr {
 .benefits_wrapper {
 	width: 410px;
 	float: left;
-	margin-top: 10px;
+	margin-top: 20px;
 	text-align:left;
 	}
 	
@@ -168,7 +168,7 @@ div.hr {
 	float: left;
 	width: 410px;
 	text-align: left;
-	margin-top: 23px;
+	margin-top: 15px;
 }
 
 .benefit_item_right {
@@ -232,7 +232,7 @@ div.hr {
 	background-image:url(../img/right_sidebar.png);
 	background-repeat:no-repeat;
 	height: 622px;
-	margin-top: 50px;
+	margin-top: 25px;
 	}
 	
 #video_top {
@@ -242,12 +242,12 @@ div.hr {
 
 .right_content {
 	width: 482px;
-	margin: 27px 0 0 26.5px;
+	margin: 30px 0 0 30px;
 }
 
 .right_content2 {
 	width: 482px;
-	margin: 26px 0 0 26.5px;
+	margin: 10px 0;
 	float: right;
 }
 

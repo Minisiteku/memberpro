@@ -190,13 +190,20 @@ div.hr {
 	margin-right: 20px;
 }
 
-.benefit_item p, .benefit_item_first p, .benefit_item_right p {
+.benefit_item p, .benefit_item_first p{
 	font-family:QlassikBoldRegular;
 	font-size:14px;
 	color: #666666;
 	line-height: 16px;
+	margin: 0 auto;
 }
-
+.benefit_item_right p {
+	font-family:QlassikBoldRegular;
+	font-size:14px;
+	color: #666666;
+	line-height: 16px;
+	margin: 5px 0;
+}
 .benefit_item_right a {
     font-size:14px;
 }

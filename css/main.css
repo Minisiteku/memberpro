@@ -185,11 +185,14 @@ div.hr {
 	margin-top: 15px;
 }
 
-.benefit_item img, .benefit_item_first img, .benefit_item_right img {
+.benefit_item img, .benefit_item_first img {
 	float: left;
-	margin-right: 20px;
+	margin: 10px 10px 0 0;
 }
-
+.benefit_item_right img {
+	float: left;
+	margin-right: 10px;
+}
 .benefit_item p, .benefit_item_first p{
 	font-family:QlassikBoldRegular;
 	font-size:14px;

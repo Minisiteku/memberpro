@@ -321,7 +321,7 @@ div.promo-btn-or {
 	clear: both;
 	background-image:url(../img/footer_bground.jpg);
 	background-repeat:repeat-x;
-	min-height:186px;
+	min-height:100px;
 	margin-top: 0 auto;
 	}
 	
@@ -333,13 +333,13 @@ div.promo-btn-or {
 #footer_left {
 	float: left;
 	width: 400px;
-	margin-top: 44px;
+	margin-top: 10px;
 	}
 	
 #footer_middle {
 	float: left;
 	width: 170px;
-	margin-top: 44px;
+	margin-top: 10px;
 	color: #8f8d8b;
 	font-size: 12px;
 	font-family:QlassikBoldRegular;
@@ -350,7 +350,7 @@ div.promo-btn-or {
 	float: right;
 	width: 300px;
 	text-align:right;
-	margin-top: 44px;
+	margin-top: 10px;
 	}
 	
 #footer_right ul.social li {

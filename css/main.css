@@ -255,7 +255,7 @@ div.promo-btn-or {
 }
 	
 .download_button {
-	float: right;
+	text-align: center;
 	margin: 0 auto;
 }
 
@@ -312,7 +312,6 @@ div.promo-btn-or {
 }
 
 .right_content .download_button img {
-	float: left;
 	margin: 0 20px 0 0px;
 }
 .hosting {

@@ -128,7 +128,7 @@ div.hr {
 	font-size:16px;
 	color: #666666;
 	line-height: 18px;
-	margin-top: 25px;
+	margin: 0 auto;
 	font-weight: normal;
 	}
 	
@@ -149,6 +149,49 @@ div.hr {
 	margin-top: 25px;
 }
 
+.promo-buttons {
+	background: none repeat scroll 0 0 #18627d;
+    border-radius: 5px;
+    display: inline-block;
+    float: left;
+    overflow: hidden;
+    padding: 0.5em;
+	margin: 20px;
+}
+a.promo-btn {
+    color: white;
+    display: inline-block;
+    float: left;
+    font-size: 15px;
+    font-weight: bold;
+    height: 44px;
+    line-height: 44px;
+    text-align: center;
+    text-decoration: none;
+    width: 141px;
+}
+a.promo-btn-demo {
+    background: url(../img/b-demo.png) no-repeat scroll left top rgba(0, 0, 0, 0);
+    text-shadow: 0 -1px 1px #b0493c;
+}
+a.promo-btn-demo:hover {
+    background-image: url(../img/b-demo-hv.png);
+}
+a.promo-btn-trial {
+    background: url(../img/b-trial.png) no-repeat scroll left top rgba(0, 0, 0, 0);
+    text-shadow: 0 -1px 1px #318299;
+}
+a.promo-btn-trial:hover {
+    background-image: url(../img/b-trial-hv.png);
+}
+div.promo-btn-or {
+    background: url(../img/or.png) no-repeat scroll left center rgba(0, 0, 0, 0);
+    display: inline-block;
+    float: left;
+    height: 44px;
+    line-height: 44px;
+    width: 50px;
+}
 .left_container {
 	width: 410px;
 	float: left;
@@ -160,7 +203,7 @@ div.hr {
 .benefits_wrapper {
 	width: 410px;
 	float: left;
-	margin-top: 20px;
+	margin-top: 30px;
 	text-align:left;
 	}
 	
@@ -212,8 +255,8 @@ div.hr {
 }
 	
 .download_button {
-	float: left;
-	margin: 25px 0 0 0;
+	float: right;
+	margin: 0 auto;
 }
 
 .download_button a {

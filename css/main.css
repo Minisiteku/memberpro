@@ -315,7 +315,11 @@ div.promo-btn-or {
 	float: left;
 	margin: 0 20px 0 0px;
 }
-
+.hosting {
+    margin: 10px;
+    text-align: center;
+    width: 960px;
+}
 
 #footer_wrapper {
 	clear: both;
@@ -374,7 +378,7 @@ div.promo-btn-or {
 .full_width {
 	margin: 0 auto;
 	width: 960px;
-	padding-bottom:50px;
+	padding-bottom:10px;
 	}
 	
 .full_width ul.gallery li {
